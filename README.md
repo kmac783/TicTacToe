@@ -11,8 +11,10 @@ Build an application to a specification that someone else gives you
 Build a dynamic game that allows two players to compete from the same computer
 Craft a README.md file that explains your app to the world
 
-README Suggestions
-List technologies used
+TECHNOLOGIES
+HTML markup
+CSS stylesheets
+Javascript
 Link to wireframes and user stories.
 Document your planning and tell a story about your development process and problem-solving strategy.
 List unsolved problems which would be fixed in future iterations.
